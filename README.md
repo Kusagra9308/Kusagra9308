@@ -13,9 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusagra9308&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusagra9308&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusagra9308&layout=compact&theme=dark&exclude_repo=repo-name&hide=html,css)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kusagra9308&icon=0&color=0)](https://visitcount.itsvg.in)
