@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Taskra - A TodoList Website<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on Taskra - A TodoList Website<br>🌱 I’m currently learning Python and NextJs<br>
 
 
 ## 🌐 Socials:
