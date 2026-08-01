@@ -1,18 +1,16 @@
 # Hi, I'm Kushagra 👋
 
-Backend Developer focused on distributed systems, cloud infrastructure, and AI applications.
+Backend Developer passionate about distributed systems, cloud infrastructure, and AI applications.
 
-Currently building scalable backend systems using Spring Boot, NestJS, Kubernetes, Terraform, LangGraph, and AWS.
+I build scalable backend systems, deploy them on AWS and Kubernetes, and explore AI agents using LangGraph and MCP.
 
-I enjoy building scalable backend systems, deploying them on AWS/Kubernetes, and experimenting with AI agents using LangGraph and MCP.
+## 🚀 Featured Projects
 
-## Featured Projects
+### 🛒 [Shoptiq](https://github.com/Kusagra9308/Shoptiq)
+Microservices e-commerce platform built with NestJS, RabbitMQ, PostgreSQL, Terraform, Kubernetes, and AWS. Load-tested with 500 concurrent users using k6.
 
-🛒 Shoptiq (https://github.com/Kusagra9308/NexusChat)
-Microservices e-commerce platform deployed on Kubernetes with Terraform, RabbitMQ, PostgreSQL, and AWS.
+### 🤖 [SpendSnap](https://github.com/Kusagra9308/SpendSnap)
+AI-powered expense tracking assistant using LangGraph, LangChain, MCP, and Llama 3 to process natural language and receipt images.
 
-🤖 SpendSnap (https://github.com/Kusagra9308/SpendSnap)
-AI-powered expense tracking assistant using LangGraph, MCP, and Llama 3.
-
-💬 NexusChat (https://github.com/Kusagra9308/NexusChat)
-Real-time chat application using Spring Boot, React, WebSockets, and MongoDB.
+### 💬 [NexusChat](https://github.com/Kusagra9308/NexusChat)
+Real-time chat application built with Spring Boot, React, WebSockets, and MongoDB featuring persistent messaging and live communication.
